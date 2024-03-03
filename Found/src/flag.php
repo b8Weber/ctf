@@ -1,0 +1,1 @@
+<?php $flag=Huse{Congratulations on finding the flag!!!}; ?>
