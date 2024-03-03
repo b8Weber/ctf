@@ -1,0 +1,9 @@
+version: "3"
+services:
+  bpsql:
+    build: .
+    image: bpsql
+    environment:
+      - FLAG=Huse{11124}
+    ports:
+      - "0.0.0.0:8080:8888"
