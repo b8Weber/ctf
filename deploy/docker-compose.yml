@@ -1,0 +1,8 @@
+version: "3"
+services:
+    web02_pro_pentest:
+        image: web02_pro_pentest
+        container_name: web02_pro_pentest
+        build: .
+        ports:
+            - "0.0.0.0:8081:8888"
