@@ -1,0 +1,1 @@
+<?php $flag="Huse{i love php forever!!!}";

@@ -1,0 +1,1 @@
+<?php $flag="Huse{PHP is so funny!!!}";

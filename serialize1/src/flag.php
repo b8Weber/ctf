@@ -1,0 +1,1 @@
+<?php $flag={bp said you are a noob!} ?>
