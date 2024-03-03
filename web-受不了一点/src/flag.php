@@ -1,0 +1,1 @@
+<?php $flag="Huse{b&p is extremely handsome!!!}";
